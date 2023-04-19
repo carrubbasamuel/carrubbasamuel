@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carrubba Samuel</h1>
-<h3 align="center">A passionate of technology and dev stuff</h3>
+<h3 align="center">Dev stuff</h3>
 
 <p align="left">
 </p>
