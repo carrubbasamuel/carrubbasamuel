@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Carrubba Samuel</h1>
 <h3 align="center">A passionate of technology and dev stuff</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
