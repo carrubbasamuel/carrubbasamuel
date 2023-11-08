@@ -26,7 +26,7 @@
 ## 🔗 Links
 
 <p align="center">
-  <a href="https://vercel.com/samuels-projects-c851fad9/portfolio">
+  <a href="[https://vercel.com/samuels-projects-c851fad9/portfolio](https://portfolio-sigma-self-61.vercel.app/)">
     <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/tuo-profilo-linkedin/">
