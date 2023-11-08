@@ -5,11 +5,24 @@
 </p>
 
 ## 🛠 Skills
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<img src="https://static-00.iconduck.com/assets.00/next-js-icon-2048x2048-5dqjgeku.png" alt="next" />
+              <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" />
+              <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="javascript" />
+              <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescript" />
+              <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="node" />
+              <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="c" />
+              <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux" />
+              <img src="https://cdn-icons-png.flaticon.com/512/1532/1532556.png" alt="html" />
+              <img src="https://cdn.iconscout.com/icon/free/png-256/free-css3-9-1175237.png" alt="css" />
+              <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="bootstrap" />
+              <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="tailwind" />
+              <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="material" />
+              <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git" />
+              <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="github" />
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
+[![portfolio]([https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white](https://vercel.com/samuels-projects-c851fad9/portfolio))]()
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-carrubba-562456228/)
 
 
