@@ -26,10 +26,10 @@
 ## 🔗 Links
 
 <p align="center">
-  <a href="[https://vercel.com/samuels-projects-c851fad9/portfolio](https://portfolio-sigma-self-61.vercel.app/)">
+  <a href="https://portfolio-sigma-self-61.vercel.app/">
     <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/tuo-profilo-linkedin/">
+  <a href="https://www.linkedin.com/in/samuel-carrubba-562456228/">
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
