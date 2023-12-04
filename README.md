@@ -11,7 +11,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="Angular" width="50" />
 
   <!-- NgRx -->
-  <img src="https://ngrx.io/assets/images/ngrx-logo.png" alt="NgRx" width="50" />
+<img src="https://raw.githubusercontent.com/ngrx/platform/master/docs/logo.png" alt="NgRx" width="50" />
 
   <!-- TypeScript -->
   <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" width="50" />
