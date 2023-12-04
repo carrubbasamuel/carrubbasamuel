@@ -19,6 +19,8 @@
   <!-- Firebase -->
   <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase" width="50" />
 
+  <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="Nextjs" whidth="50" />
+
   <!-- AWS -->
   <img src="https://cdn.worldvectorlogo.com/logos/aws-logo.svg" alt="AWS" width="50" />
 
