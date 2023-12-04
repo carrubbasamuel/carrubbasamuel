@@ -11,7 +11,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="Angular" width="50" />
 
   <!-- NgRx -->
-<img src="https://raw.githubusercontent.com/ngrx/platform/master/docs/logo.png" alt="NgRx" width="50" />
+<img src="https://raw.githubusercontent.com/ngrx/platform/master/docs/logo.png](https://ultimatecourses.com/assets/category/rxjs-9f84024d32b2004a38bddb98c7b033d35ca2f86395cdd1e6a082759f795c2f1f.svg" alt="NgRx" width="50" />
 
   <!-- TypeScript -->
   <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" width="50" />
