@@ -34,10 +34,8 @@
   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" width="50" />
 
   <!-- Sass -->
-<img src="https://raw.githubusercontent.com/sass/sass-site/main/source/assets/img/logos/logo-color.svg" alt="Sass" width="50" />
+<img src="https://e7.pngegg.com/pngimages/72/936/png-clipart-sass-cascading-style-sheets-preprocessor-less-postcss-meng-miscellaneous-text-thumbnail.png" alt="Sass" width="50" />
 
-<!-- SCSS -->
-<img src="https://raw.githubusercontent.com/sass/sass-site/main/source/assets/img/logos/logo-color.svg" alt="SCSS" width="50" />
 
 
   <!-- C -->
