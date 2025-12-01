@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm Carrubba Samuel</h1>
 
 <p align="center">
-  Welcome to my GitHub profile! I'm a passionate developer with a love for creating web applications.
+  Welcome to my GitHub profile!
 </p>
 
 ## 🛠️ Skills
